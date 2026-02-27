@@ -1,6 +1,9 @@
 # Battery Electrode Capacity Prediction Model
 This repository contains a machine learning pipeline for predicting the gravimetric capacity of battery electrodes using various regression models. The model is trained on material features including crystallographic data and Magpie-derived elemental properties.
 
+![ppt_results](https://github.com/user-attachments/assets/9b30240e-f1d8-4b92-b158-f73a0638ae2f)
+
+
 # Project Overview
 The project aims to predict battery electrode capacity (capacity_grav) using various material properties and structural features. Multiple machine learning models are evaluated to identify the best-performing algorithm for accurate capacity prediction.
 
